@@ -1,4 +1,4 @@
-bf40ebd (HEAD -> main) Membuat file history.txt
+bf40ebd (HEAD -> main, origin/main, origin/HEAD) Membuat file history.txt
 8f8f7bd Mengubah teks h1
 cce5702 Menambahkan daftar nama pokemon
 78fba14 Update index.html
