@@ -1,0 +1,6 @@
+8f8f7bd (HEAD -> main, origin/main, origin/HEAD, features) Mengubah teks h1
+cce5702 Menambahkan daftar nama pokemon
+78fba14 Update index.html
+6286c97 Menambahkan paragraf
+d5d8f91 Menambahkan file index.html
+e7759b2 Create README.md
