@@ -1,4 +1,5 @@
-8f8f7bd (HEAD -> main, origin/main, origin/HEAD, features) Mengubah teks h1
+bf40ebd (HEAD -> main, origin/main, origin/HEAD) Membuat file history.txt
+8f8f7bd Mengubah teks h1
 cce5702 Menambahkan daftar nama pokemon
 78fba14 Update index.html
 6286c97 Menambahkan paragraf
